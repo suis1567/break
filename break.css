@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+ 
+  background-image: url(./media/89739088_p0.jpg);
+  background-color: rgba(255,255,255,0.5);
+  background-blend-mode: lighten;
+  background-size: 1920px 1080px;
+}
+
+.break{
+  font-size: 110px;
+  -webkit-text-stroke: 3px royalblue;
+  font-family: "レゲエ One"
+}
+
+#music{
+  font-size: 20px;
+  font-family: "レゲエ One";
+  color: whitesmoke;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: dodgerblue;
+  border: solid;
+  border-color: deepskyblue;
+  border-radius: 10px;
+}
